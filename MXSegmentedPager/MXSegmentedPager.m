@@ -321,4 +321,7 @@
     return self.contentView.parallaxHeader;
 }
 
+- (MXScrollView *)scrollView {
+    return self.contentView;
+}
 @end

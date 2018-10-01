@@ -249,7 +249,7 @@ typedef NS_ENUM(NSInteger, MXSegmentedControlPosition) {
 
 
 /**
- Scrolls the main contentView back to the top position
+ Scrolls the main contentView back to the bottom position
  */
 - (void)scrollToBottomAnimated:(BOOL)animated;
 
